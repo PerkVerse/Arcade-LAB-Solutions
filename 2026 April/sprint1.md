@@ -1,0 +1,53 @@
+#### Workloads and Performance
+
+### GSP497 : Cloud Operations for GKE
+```
+Command Already given in tasks only juat you have to run in terminal
+```
+
+### GSP736 : Debug Apps on Google Kubernetes Engine
+```
+curl -O https://raw.githubusercontent.com/StudentTechHubs/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab2.sh
+sudo chmod +x lab2.sh
+./lab2.sh
+```
+
+### GSP768 : Understanding and Combining GKE Autoscaling Strategies
+```
+MANUAL LAB DO By OWN SOLUTION EXPLAIN GIVEN IN VIDEO
+```
+
+### GSP769 : GKE Workload Optimization
+```
+curl -O https://raw.githubusercontent.com/StudentTechHubs/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab4.sh
+sudo chmod +x lab4.sh
+./lab4.sh
+```
+
+#### Networking and Cluster Setup
+
+### GSP957 : Deploy Applications with GKE Autopilot
+```
+MANUAL LAB DO By OWN SOLUTION EXPLAIN GIVEN IN VIDEO
+```
+
+### GSP213 : VPC Networks - Controlling Access
+```
+curl -O https://raw.githubusercontent.com/StudentTechHubs/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab6.sh 
+sudo chmod +x lab6.sh
+./lab6.sh
+```
+
+### GSP178 : Setting up a Private Kubernetes Cluster
+```
+curl -O https://raw.githubusercontent.com/StudentTechHubs/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab7.sh 
+sudo chmod +x lab7.sh
+./lab7.sh
+```
+
+### GSP182 : Distributed Load Testing Using Kubernetes
+```
+curl -O https://raw.githubusercontent.com/StudentTechHubs/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab8.sh
+sudo chmod +x lab8.sh 
+./lab8.sh
+```
