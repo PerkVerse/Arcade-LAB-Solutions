@@ -26,7 +26,7 @@ sudo chmod +x lab3.sh
 
 ### GSP769 : GKE Workload Optimization
 ```
-curl -O https://raw.githubusercontent.com/StudentTechHubs/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab4.sh
+curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab4.sh
 sudo chmod +x lab4.sh
 ./lab4.sh
 ```
