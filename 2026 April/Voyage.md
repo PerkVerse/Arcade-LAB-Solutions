@@ -17,9 +17,11 @@ sudo chmod +x lab1part2.sh
 MANUAL LAB DO By OWN SOLUTION EXPLAIN GIVEN IN VIDEO
 ```
 
-### GSP768 : Understanding and Combining GKE Autoscaling Strategies
+### GSP768 : Developing a REST API with Go and Cloud Run
 ```
-MANUAL LAB DO By OWN SOLUTION EXPLAIN GIVEN IN VIDEO
+curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab3.sh
+sudo chmod +x lab3.sh
+./lab3.sh
 ```
 
 ### GSP769 : GKE Workload Optimization
