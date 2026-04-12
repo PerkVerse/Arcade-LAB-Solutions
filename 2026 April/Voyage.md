@@ -38,11 +38,13 @@ sudo chmod +x lab4.sh
 ./lab4.sh
 ```
 
-## 2. Networking and Cluster Setup
+## 2. Networking and Infrastructure Essentials
 
-### GSP957 : Deploy Applications with GKE Autopilot
+### GSP216 : Networking and Infrastructure Essentials
 ```
-MANUAL LAB DO By OWN SOLUTION EXPLAIN GIVEN IN VIDEO
+curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab5.sh
+sudo chmod +x lab5.sh
+./lab5.sh
 ```
 
 ### GSP213 : VPC Networks - Controlling Access
