@@ -47,11 +47,9 @@ sudo chmod +x lab5.sh
 ./lab5.sh
 ```
 
-### GSP213 : VPC Networks - Controlling Access
+### GSP1009 : Flutter Qwik Start
 ```
-curl -O https://raw.githubusercontent.com/StudentTechHubs/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab6.sh 
-sudo chmod +x lab6.sh
-./lab6.sh
+Open lab for 5-10 minutes and your lab will automatically completed
 ```
 
 ### GSP178 : Setting up a Private Kubernetes Cluster
