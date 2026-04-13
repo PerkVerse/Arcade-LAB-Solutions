@@ -2,6 +2,10 @@
 
 ### GSP860 : Migrating On-premises MySQL Using a Continuous Database Migration Service Job
 ```
+gcloud services enable datamigration.googleapis.com --quiet
+gcloud services enable servicenetworking.googleapis.com --quiet
+```
+```
 curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint2/lab1.sh
 sudo chmod +x lab1.sh
 ./lab1.sh
