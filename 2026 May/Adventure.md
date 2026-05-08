@@ -25,7 +25,7 @@ sudo chmod +x lab3.sh
 ./lab3.sh
 ```
 
-## Deploy Your Website on Cloud Run 
+## GSP659 : Deploy Your Website on Cloud Run 
 
 ```
 curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/May%202026/Arcade%20Adventure/lab6.sh
@@ -33,7 +33,7 @@ sudo chmod +x lab6.sh
 ./lab6.sh 
 ```
 
-## Deploy, Scale, and Update Your Website on Google Kubernetes Engine 
+## GSP663 : Deploy, Scale, and Update Your Website on Google Kubernetes Engine 
 
 ```
 export ZONE=
@@ -44,7 +44,7 @@ sudo chmod +x lab7.sh
 ./lab7.sh 
 ```
 
-## Host a Web App on Google Cloud Using Compute Engine 
+## GSP662 : Host a Web App on Google Cloud Using Compute Engine 
 
 ```
 export ZONE=
