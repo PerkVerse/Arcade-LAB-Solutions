@@ -6,7 +6,7 @@ sudo chmod +x lab3.sh
 ./lab3.sh
 ```
 
-## Setting up a Private Kubernetes Cluster 
+## GSP178 : Setting up a Private Kubernetes Cluster 
 
 ```
 curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/May%202026/Arcade%20Trial/lab4.sh
