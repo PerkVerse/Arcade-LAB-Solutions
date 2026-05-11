@@ -14,7 +14,7 @@ sudo chmod +x lab4.sh
 ./lab4.sh
 ```
 
-## Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab 
+## GSP342 : Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab 
 
 ```
 curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/May%202026/Arcade%20Trial/lab5.sh
