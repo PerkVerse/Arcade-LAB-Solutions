@@ -29,3 +29,11 @@ curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/hea
 sudo chmod +x lab7.sh 
 ./lab7.sh
 ``` 
+
+## ARC112 : App Engine: 3 Ways: Challenge Lab
+
+```
+curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/Skill%20Up%20Summer/lab8.sh
+sudo chmod +x lab8.sh
+./lab8.sh
+```
