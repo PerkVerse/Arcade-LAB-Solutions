@@ -5,6 +5,3 @@ curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/hea
 sudo chmod +x lab1.sh 
 ./lab1.sh 
 ```
-
-### Youtube Link :- https://youtube.com/@PerkVers
-## Please Subscribe Like, Share
