@@ -8,3 +8,5 @@ curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/hea
 sudo chmod +x lab3.sh
 ./lab3.sh 
 ```
+
+### Subscribe Kar Lena Please 
