@@ -2,8 +2,8 @@
 
 ```
 curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/May%202026/BaseCamp/lab1.sh
-sudo chmod +x lab2.sh 
-./lab2.sh 
+sudo chmod +x lab1.sh 
+./lab1.sh 
 ```
 
 ## The Basics of Google Cloud Compute: Challenge Lab 
