@@ -1,7 +1,7 @@
 ## GSP004 : Creating a Persistent Disk
 
 ```
-curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/May%202026/BaseCamp/lab2.sh
+curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/May%202026/BaseCamp/lab1.sh
 sudo chmod +x lab2.sh 
 ./lab2.sh 
 ```
