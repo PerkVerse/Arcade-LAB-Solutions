@@ -1,4 +1,4 @@
-## GSP155 : Set Up Application Load Balancers LAB
+# GSP155 : Set Up Application Load Balancers 
 
 ```
 curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/June%202026/BaseCamp/lab2.sh
