@@ -1,4 +1,4 @@
-## GSP007 : Set Up Network Load Balancers LAB
+# GSP007 : Set Up Network Load Balancers 
 
 ```
 curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/June%202026/BaseCamp/lab1.md
