@@ -1,9 +1,9 @@
 # GSP007 : Set Up Network Load Balancers 
 
 ```
-curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/June%202026/BaseCamp/lab1.md
-sudo chmod +x lab1.md
-./lab1.md
+curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/June%202026/BaseCamp/lab1.sh
+sudo chmod +x lab1.sh
+./lab1.sh
 ```
 
 ### Congratulations !!!!
